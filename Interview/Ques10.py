@@ -1,0 +1,1 @@
+# list lo sum of consecutive numbers
